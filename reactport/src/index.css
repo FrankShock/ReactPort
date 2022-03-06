@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Oxygen', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  font-size: 40%;
+ background-image: url("../src/code\ background.jpg");
+  color: silver;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h4 {
+  font-size: 25px;
+}
+
+.socials {
+  text-align: justify;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  display: flex;
+  font-size: 30px;
+  padding-bottom: 10%;
+}
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: right;
+  list-style: none;
+  font-size: 20px;
+  color:silver
+}
+p {
+font-size: 20px;
+}
+#foot {
+  font-size: 20px;
+}
+#discrip{
+  font-size: 20px
+}
+#about{
+  font-size: 20px;
+  align-items: right
+}
+#title{
+  font-size: 30px;
+}
+#Nava{
+  font-size:22px;
+  align-items: right;
+  padding-left: 80%; 
+  color:silver
+}
+a {
+  font-size: 20px;
+  color:silver
+}
+#portimg{
+  border-radius:51px;
+}
+#portimg .work-image:hover {
+  max-width: 230%;
+  border-radius:51px;
+  text-shadow: none;
+  
+}
+#contactforum {
+  font-size: 20px;
+  color:silver
+}

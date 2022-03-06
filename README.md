@@ -1,7 +1,7 @@
-# Note taker
+# React Portfolio
 
 ## Description
-This is Note taker application. Which allows to to  create custom notes and delete them.  
+this is my react portfolio  
 ## Images
 ![Screenshot1](https://github.com/FrankShock/NOTETAKER/blob/c334b74581dc23bbd1d413a01390977bc8e11ffd/Develop/public/assets/Images/Notescreenshot1.JPG)
 
@@ -13,20 +13,20 @@ npm i
 ```
 * The application will be invoked with the following command: This will start localhost server on PORT 3001.
 ```
-node server.js
+npm run start
 ```
-* Open browser and type `http://localhost:3001/` to run this application on your local machine.
+* Open browser and type `http://localhost:3000/` to run this application on your local machine.
 
 ## Built With
 * HTML
 * CSS
 * Javascript
-* Express.js
+* React
 
 ## Repository Link
-https://github.com/FrankShock/NOTETAKER
+https://github.com/FrankShock/ReactPort
 ## Website
 https://frankshock.github.io/NOTETAKER/
 
 
-### ©2021 Frank Schockey's NOTETAKER
+### ©2022 Frank Schockey's React Portfolio
