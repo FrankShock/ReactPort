@@ -3,7 +3,7 @@
 ## Description
 this is my react portfolio  
 ## Images
-![Screenshot1](https://github.com/FrankShock/NOTETAKER/blob/c334b74581dc23bbd1d413a01390977bc8e11ffd/Develop/public/assets/Images/Notescreenshot1.JPG)
+![Screenshot1](https://github.com/FrankShock/ReactPort/blob/main/reactport/Assets/images/portSC1.JPG)
 
 ## Installation 
 * Clone this repository to use this application on local machine.
@@ -26,7 +26,7 @@ npm run start
 ## Repository Link
 https://github.com/FrankShock/ReactPort
 ## Website
-https://frankshock.github.io/NOTETAKER/
+https://frankshock.github.io/ReactPort/
 
 
 ### ©2022 Frank Schockey's React Portfolio
